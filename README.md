@@ -24,7 +24,7 @@ This study aims to characterize the genomic composition of *C. diphtheriae* isol
  
 **Complete methodological details are provided in [METHODS.md](./METHODS.md)**
  
-![Workflow Diagram](./figures/workflow_diagram.png)
+![WGS Pipeline Workflow](./figures/workflow_diagram.png)
  
 The analysis was conducted across four sequential stages: (1) data preparation and quality control, (2) reference genome alignment, (3) SAM/BAM processing, and (4) variant calling and functional annotation.
  
