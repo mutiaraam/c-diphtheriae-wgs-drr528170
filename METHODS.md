@@ -154,6 +154,8 @@ grep "HIGH" varcdif_annotated.vcf | \
   cut -d'|' -f4,5 | \
   sort | uniq -c | sort -rn
 ```
+  
+A total of 130 genes were identified with HIGH-impact variants distributed across the genome. For clinical interpretation, emphasis was placed on genes of known significance: vaccine-relevant genes (*tox*, *dtxR*, *spaA*, *spaB*, *spaC*) and genes encoding antimicrobial resistance determinants (*tipA*).
  
 ---
  
