@@ -142,6 +142,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/195/815/GCF_000195815.1_AS
 - **Raw reads:** [NCBI SRA BioProject PRJDB12216](https://www.ncbi.nlm.nih.gov/bioproject/PRJDB12216)
 - **Isolate:** DRR528170
 - **Reference:** *C. diphtheriae* NCTC13129 (GCF_000195815.1)
+
 All data publicly accessible. Analysis fully reproducible from open-source tools.
 
 ---
