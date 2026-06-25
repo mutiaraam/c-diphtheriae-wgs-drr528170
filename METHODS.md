@@ -171,3 +171,6 @@ grep "HIGH" varcdif_annotated.vcf | \
 | SnpEff | v5.4 | Functional variant annotation | Cingolani et al., 2012 |
  
 ---
+ 
+*See [RESULTS.md](./RESULTS.md) for outputs of each pipeline stage.*
+ 
