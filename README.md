@@ -104,24 +104,17 @@ Whole-genome sequencing of *C. diphtheriae* isolate DRR528170 identified 27,915 
 ---
  
 ## Repository Structure
- 
+
 ```
 cdif-wgs-analysis/
-├── README_v2.md           # Project overview (this file)
-├── METHODS.md             # Complete analytical pipeline
-├── RESULTS.md             # Detailed results with all tables
-├── DISCUSSION.md          # Biological interpretation and references
+├── README.md                    # Project overview and data sources
+├── METHODS.md                   # Complete methodology
+├── RESULTS.md                   # Analysis results and tables
+├── DISCUSSION.md                # Interpretation and implications
 ├── figures/
-│   ├── workflow_diagram.png
-│   ├── variant_distribution_pie.png
-│   └── impact_level_pyramid.png
-├── scripts/
-│   ├── 01_qc.sh
-│   ├── 02_align.sh
-│   ├── 03_variant_calling.sh
-│   └── 04_annotation.sh
-└── data/
-    └── README.md          # Data sourcing and access instructions
+│   └── workflow_diagram_rev.png      # WGS pipeline workflow
+├── .gitignore
+└── LICENSE
 ```
  
 ## Reproducibility
